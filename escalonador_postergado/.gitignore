@@ -1,0 +1,10 @@
+# Object files
+*.o
+
+# Other stuff
+*.txt
+escalonador
+execucao_postergada
+hello
+shutdown
+docs/
